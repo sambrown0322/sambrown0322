@@ -1,5 +1,6 @@
 ### Hi there 👋 Get to know me!
 
+
 - 🔭 I’m currently working on finding a job as a front-end/fullstack developer.
 - 🌱 I’m currently learning React.js
 - 🤔 I’m looking to make connections with people who have similar interests.
